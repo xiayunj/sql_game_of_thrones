@@ -1,0 +1,379 @@
+id,seasonNum,episodeNum,sceneNo,characterName_1,action,characterName_2
+0,1,1,10,Waymar Royce,killedBy,White Walker
+1,1,1,13,Gared,killedBy,White Walker
+2,1,1,15,Will,killedBy,Eddard Stark
+3,1,1,17,Jon Arryn,killedBy,Lysa Arryn
+4,1,1,23,Tyrion Lannister,sex,Ros
+5,1,1,23,Ros,sex,Tyrion Lannister
+6,1,1,33,Khal Drogo,married,Daenerys Targaryen
+7,1,1,33,Daenerys Targaryen,married,Khal Drogo
+8,1,1,34,Khal Drogo,sex,Daenerys Targaryen
+9,1,1,34,Daenerys Targaryen,sex,Khal Drogo
+10,1,1,36,Jaime Lannister,sex,Cersei Lannister
+11,1,1,36,Cersei Lannister,sex,Jaime Lannister
+12,1,2,11,Khal Drogo,sex,Daenerys Targaryen
+13,1,2,11,Daenerys Targaryen,sex,Khal Drogo
+14,1,2,13,Catspaw Assassin,killedBy,Summer
+15,1,2,20,Khal Drogo,sex,Daenerys Targaryen
+16,1,2,20,Daenerys Targaryen,sex,Khal Drogo
+17,1,2,26,Mycah,killedBy,Sandor Clegane
+18,1,2,30,Lady,killedBy,Eddard Stark
+19,1,3,23,Daenerys Targaryen,sex,Khal Drogo
+20,1,3,23,Khal Drogo,sex,Daenerys Targaryen
+21,1,4,8,Viserys Targaryen,sex,Doreah
+22,1,4,8,Doreah,sex,Viserys Targaryen
+23,1,4,26,Hugh of the Vale,killedBy,Gregor Clegane
+24,1,5,8,Ros,sex,Theon Greyjoy
+25,1,5,8,Theon Greyjoy,sex,Ros
+26,1,5,24,Renly Baratheon,sex,Loras Tyrell
+27,1,5,24,Loras Tyrell,sex,Renly Baratheon
+28,1,5,28,Jory Cassel,killedBy,Jaime Lannister
+29,1,6,6,Stiv,killedBy,Theon Greyjoy
+30,1,6,6,Wallen,killedBy,Robb Stark
+31,1,6,15,Vardis Egen,killedBy,Bronn
+32,1,6,19,Viserys Targaryen,killedBy,Khal Drogo
+33,1,7,3,Ros,sex,Armeca
+34,1,7,3,Armeca,sex,Ros
+35,1,7,22,Robert Baratheon,killedBy,Boar
+36,1,8,4,Vayon Poole,killedBy,Lannister Guard
+37,1,8,6,Syrio Forel,killedBy,Meryn Trant
+38,1,8,9,Red Keep Stableboy,killedBy,Arya Stark
+39,1,8,21,Othor,killedBy,Jon Snow
+40,1,8,23,Mago,killedBy,Khal Drogo
+41,1,9,14,Tyrion Lannister,sex,Shae
+42,1,9,14,Shae,sex,Tyrion Lannister
+43,1,9,15,Qotho,killedBy,Jorah Mormont
+44,1,9,16,Tyrion Lannister,sex,Shae
+45,1,9,16,Shae,sex,Tyrion Lannister
+46,1,9,25,Eddard Stark,killedBy,Ilyn Payne
+47,1,10,12,Cersei Lannister,sex,Lancel Lannister
+48,1,10,12,Lancel Lannister,sex,Cersei Lannister
+49,1,10,19,Shae,sex,Tyrion Lannister
+50,1,10,19,Tyrion Lannister,sex,Shae
+51,1,10,22,Khal Drogo,killedBy,Daenerys Targaryen
+52,1,10,23,Grand Maester Pycelle,sex,Ros
+53,1,10,23,Ros,sex,Grand Maester Pycelle
+54,1,10,31,Mirri Maz Duur,killedBy,Daenerys Targaryen
+55,2,1,18,Maester Cressen,killedBy,Maester Cressen
+56,2,1,27,Barra,killedBy,Janos Slynt
+57,2,2,12,Theon Greyjoy,sex,Captain's Daughter
+58,2,2,12,Captain's Daughter,sex,Theon Greyjoy
+59,2,2,13,Brothel Customer,sex,Armeca
+60,2,2,13,Armeca,sex,Brothel Customer
+61,2,2,29,Stannis Baratheon,sex,Melisandre
+62,2,2,29,Melisandre,sex,Stannis Baratheon
+63,2,3,7,Renly Baratheon,married,Margaery Tyrell
+64,2,3,7,Margaery Tyrell,married,Renly Baratheon
+65,2,3,18,Renly Baratheon,sex,Loras Tyrell
+66,2,3,18,Loras Tyrell,sex,Renly Baratheon
+67,2,3,24,Grand Maester Pycelle,sex,Daisy
+68,2,3,24,Daisy,sex,Grand Maester Pycelle
+69,2,3,28,Yoren,killedBy,Amory Lorch
+70,2,3,29,Lommy Greenhands,killedBy,Polliver
+71,2,4,1,Rennick,killedBy,Grey Wind
+72,2,4,12,Ros,sex,Daisy
+73,2,4,12,Daisy,sex,Ros
+74,2,4,28,Tortured Prisoner,killedBy,The Tickler
+75,2,5,1,Renly Baratheon,killedBy,Melisandre
+76,2,5,38,The Tickler,killedBy,Jaqen H'ghar
+77,2,6,6,Rodrik Cassel,killedBy,Theon Greyjoy
+78,2,6,17,High Septon,killedBy,King's Landing Mob
+79,2,6,24,King's Landing Rioter #1,killedBy,Sandor Clegane
+80,2,6,24,King's Landing Rioter #2,killedBy,Sandor Clegane
+81,2,6,24,King's Landing Rioter #3,killedBy,Sandor Clegane
+82,2,6,33,Amory Lorch,killedBy,Jaqen H'ghar
+83,2,6,40,Theon Greyjoy,sex,Osha
+84,2,6,40,Osha,sex,Theon Greyjoy
+85,2,6,43,Drennan,killedBy,Osha
+86,2,6,46,Irri,killedBy,Doreah
+87,2,7,26,Alton Lannister,killedBy,Jaime Lannister
+88,2,7,27,Torrhen Karstark,killedBy,Jaime Lannister
+89,2,7,29,Spice King,killedBy,Pyat Pree
+90,2,7,29,Silk King,killedBy,Pyat Pree
+91,2,8,31,Robb Stark,sex,Talisa Maegyr
+92,2,8,31,Talisa Maegyr,sex,Robb Stark
+93,2,9,5,Tyrion Lannister,sex,Shae
+94,2,9,5,Shae,sex,Tyrion Lannister
+95,2,9,45,Matthos Seaworth,killedBy,Bronn
+96,2,9,115,Mandon Moore,killedBy,Podrick Payne
+97,2,10,8,Soldier Tom,killedBy,Brienne of Tarth
+98,2,10,8,Stark Soldier,killedBy,Brienne of Tarth
+99,2,10,17,Robb Stark,married,Talisa Maegyr
+100,2,10,17,Talisa Maegyr,married,Robb Stark
+101,2,10,28,Maester Luwin,killedBy,Osha
+102,2,10,34,Pyat Pree,killedBy,Daenerys Targaryen
+103,2,10,35,Qhorin Halfhand,killedBy,Jon Snow
+104,2,10,37,Xaro Xhoan Daxos,sex,Doreah
+105,2,10,37,Doreah,sex,Xaro Xhoan Daxos
+106,2,10,38,Xaro Xhoan Daxos,killedBy,Daenerys Targaryen
+107,2,10,38,Doreah,killedBy,Daenerys Targaryen
+108,3,1,3,Man of the Nightswatch,killedBy,White Walker
+109,3,1,6,White Walker,killedBy,Jeor Mormont
+110,3,2,36,Tyrion Lannister,sex,Shae
+111,3,2,36,Shae,sex,Tyrion Lannister
+112,3,3,32,Podrick Payne,sex,GennaMareiKayla
+113,3,3,32,Genna,sex,Podrick Payne
+114,3,3,32,Marei,sex,Podrick Payne
+115,3,3,32,Kayla,sex,Podrick Payne
+116,3,3,36,Master Torturer,killedBy,Ramsay Snow
+117,3,4,33,Craster,killedBy,Karl Tanner
+118,3,4,36,Jeor Mormont,killedBy,Rast
+119,3,4,44,Kraznys mo Nakloz,killedBy,Daenerys Targaryen
+120,3,5,1,Beric Dondarrion,killedBy,Sandor Clegane
+121,3,5,5,Jon Snow,sex,Ygritte
+122,3,5,5,Ygritte,sex,Jon Snow
+123,3,5,14,Martyn Lannister,killedBy,Rickard Karstark
+124,3,5,14,Willem Lannister,killedBy,Rickard Karstark
+125,3,5,18,Rickard Karstark,killedBy,Robb Stark
+126,3,5,34,Loras Tyrell,sex,Olyvar
+127,3,5,34,Olyvar,sex,Loras Tyrell
+128,3,6,23,Ros,killedBy,Joffrey Baratheon
+129,3,7,6,Talisa Maegyr,sex,Robb Stark
+130,3,7,6,Robb Stark,sex,Talisa Maegyr
+131,3,7,34,Theon Greyjoy,sex,MyrandaViolet
+132,3,7,34,Myranda,sex,Theon Greyjoy
+133,3,7,34,Violet,sex,Theon Greyjoy
+134,3,8,19,Sansa Stark,married,Tyrion Lannister
+135,3,8,19,Tyrion Lannister,married,Sansa Stark
+136,3,8,20,Gendry,sex,Melisandre
+137,3,8,20,Melisandre,sex,Gendry
+138,3,8,43,Mero,killedBy,Daario Naharis
+139,3,8,43,Prendahl na Ghezn,killedBy,Daario Naharis
+140,3,8,49,White Walker,killedBy,Samwell Tarly
+141,3,9,25,Old Man,killedBy,Ygritte
+142,3,9,29,Orell,killedBy,Jon Snow
+143,3,9,37,Edmure Tully,married,Roslin Frey
+144,3,9,37,Roslin Frey,married,Edmure Tully
+145,3,9,60,Wendel Manderly,killedBy,Walder Frey
+146,3,9,65,Grey Wind,killedBy,Frey Soldiers
+147,3,9,68,Talisa Maegyr,killedBy,Lothar Frey
+148,3,9,70,Robb Stark,killedBy,Roose Bolton
+149,3,9,71,Catelyn Stark,killedBy,Black Walder Rivers
+150,3,9,71,Joyeuse Erenford,killedBy,Catelyn Stark
+151,3,10,28,Frey Soldier #1,killedBy,Arya Stark
+152,3,10,28,Frey Soldier #2,killedBy,Sandor Clegane
+153,4,1,55,Polliver,killedBy,Arya Stark
+154,4,2,1,Tansy,killedBy,Ramsay's hounds
+155,4,2,6,Roose Bolton,married,Walda Bolton
+156,4,2,6,Walda Bolton,married,Ramsay Snow
+157,4,2,23,Axell Florent,killedBy,Melisandre
+158,4,2,45,Joffrey Baratheon,married,Margaery Tyrell
+159,4,2,45,Margaery Tyrell,married,Joffrey Baratheon
+160,4,2,81,Joffrey Baratheon,killedBy,Olenna TyrellPetyr Baelish
+161,4,3,8,Dontos Hollard,killedBy,Petyr Baelish
+162,4,3,18,Cersei Lannister,sex,Jaime Lannister
+163,4,3,18,Jaime Lannister,sex,Cersei Lannister
+164,4,3,33,Ellaria Sand,sex,OlyvarMareiKing's Landing WhoreOberyn Martell
+165,4,3,33,Olyvar,sex,Ellaria SandMareiKing's Landing WhoreOberyn Martell
+166,4,3,33,Marei,sex,Ellaria SandOlyvarKing's Landing WhoreOberyn Martell
+167,4,3,33,King's Landing Whore,sex,Ellaria SandOlyvarMareiOberyn Martell
+168,4,3,33,Oberyn Martell,sex,Ellaria SandOlyvarMareiKing's Landing Whore
+169,4,3,38,Guymon,killedBy,Ygritte
+170,4,3,39,Olly's Mother,killedBy,Styr
+171,4,3,54,Oznak zo Pahl,killedBy,Daario Naharis
+172,4,5,16,Lysa Arryn,married,Petyr Baelish
+173,4,5,16,Lysa Arryn,sex,Petyr Baelish
+174,4,5,16,Petyr Baelish,married,Lysa Arryn
+175,4,5,16,Petyr Baelish,sex,Lysa Arryn
+176,4,5,40,Locke,killedBy,HodorBran Stark
+177,4,5,45,Karl Tanner,killedBy,Jon Snow
+178,4,5,48,Rast,killedBy,Ghost
+179,4,6,7,Myranda,sex,Ramsay Snow
+180,4,6,7,Ramsay Snow,sex,Myranda
+181,4,6,9,Myranda,sex,Ramsay Snow
+182,4,6,9,Ramsay Snow,sex,Myranda
+183,4,6,11,Myranda,sex,Ramsay Snow
+184,4,6,11,Ramsay Snow,sex,Myranda
+185,4,6,13,Myranda,sex,Ramsay Snow
+186,4,6,13,Ramsay Snow,sex,Myranda
+187,4,7,4,Old Man,killedBy,Sandor Clegane
+188,4,7,5,Biter,killedBy,Sandor Clegane
+189,4,7,6,Rorge,killedBy,Arya Stark
+190,4,7,12,Daenerys Targaryen,sex,Daario Naharis
+191,4,7,12,Daario Naharis,sex,Daenerys Targaryen
+192,4,7,27,Lysa Arryn,killedBy,Petyr Baelish
+193,4,8,3,Mole's Town Whore,killedBy,Ygritte
+194,4,8,3,Kegs,killedBy,Styr
+195,4,8,3,Black Jack Bulwer,killedBy,Tormund Giantsbane
+196,4,8,3,Mully,killedBy,Styr
+197,4,8,11,Ralf Kenning,killedBy,Adrack Humble
+198,4,8,13,Adrack Humble,killedBy,Ramsay Snow
+199,4,8,33,Oberyn Martell,killedBy,Gregor Clegane
+200,4,9,41,Pypar,killedBy,Ygritte
+201,4,9,53,Thenn Warg,killedBy,Samwell Tarly
+202,4,9,75,Styr,killedBy,Jon Snow
+203,4,9,77,Ygritte,killedBy,Olly
+204,4,9,85,Grenn,killedBy,Mag the Mighty
+205,4,9,85,Donnel Hill,killedBy,Mag the Mighty
+206,4,9,85,Cooper,killedBy,Mag the Mighty
+207,4,9,85,Mag the Mighty,killedBy,GrennDonnel HillCooper
+208,4,10,13,Jaime Lannister,sex,Cersei Lannister
+209,4,10,13,Cersei Lannister,sex,Jaime Lannister
+210,4,10,26,Jojen Reed,killedBy,Meera Reed
+211,4,10,38,Shae,killedBy,Tyrion Lannister
+212,4,10,40,Tywin Lannister,killedBy,Tyrion Lannister
+213,5,1,9,White Rat,killedBy,Son of the Harpy
+214,5,1,27,Loras Tyrell,sex,Olyvar
+215,5,1,27,Olyvar,sex,Loras Tyrell
+216,5,1,34,Daario Naharis,sex,Daenerys Targaryen
+217,5,1,34,Daenerys Targaryen,sex,Daario Naharis
+218,5,1,46,Mance Rayder,killedBy,Jon Snow
+219,5,2,9,Eyrie Guard,killedBy,Brienne of Tarth
+220,5,2,39,Son of the Harpy,killedBy,Mossador
+221,5,2,42,Mossador,killedBy,Daario Naharis
+222,5,3,3,Despondent Man,killedBy,Jaqen H'ghar
+223,5,3,6,Tommen Baratheon,married,Margaery Tyrell
+224,5,3,6,Margaery Tyrell,married,Tommen Baratheon
+225,5,3,7,Tommen Baratheon,sex,Margaery Tyrell
+226,5,3,7,Margaery Tyrell,sex,Tommen Baratheon
+227,5,3,28,Janos Slynt,killedBy,Jon Snow
+228,5,4,30,Lead Dornish Guard,killedBy,Bronn
+229,5,4,33,Merchant Captain,killedBy,Obara Sand
+230,5,4,44,Second Son,killedBy,Son of the Harpy
+231,5,4,45,Second Son,killedBy,
+232,5,4,51,Barristan Selmy,killedBy,Sons of the Harpy
+233,5,5,4,Great Master #1,killedBy,Daenerys Targaryen
+234,5,5,17,Myranda,sex,Ramsay Snow
+235,5,5,17,Ramsay Snow,sex,Myranda
+236,5,6,8,Ghita,killedBy,Arya Stark
+237,5,6,38,Sansa Stark,married,Ramsay Snow
+238,5,6,38,Ramsay Snow,married,Sansa Stark
+239,5,6,39,Sansa Stark,sex,Ramsay Snow
+240,5,6,39,Ramsay Snow,sex,Sansa Stark
+241,5,7,13,Old Woman,killedBy,Ramsay Snow
+242,5,7,21,Gilly,sex,Samwell Tarly
+243,5,7,21,Samwell Tarly,sex,Gilly
+244,5,7,24,Daenerys Targaryen,sex,Daario Naharis
+245,5,7,24,Daario Naharis,sex,Daenerys Targaryen
+246,5,8,24,Rattleshirt,killedBy,Tormund Giantsbane
+247,5,8,44,Loboda,killedBy,White Walker
+248,5,8,45,White Walker,killedBy,Jon Snow
+249,5,8,47,Karsi,killedBy,Wight children
+250,5,9,34,Meryn Trant,sex,Aya
+251,5,9,34,Aya,sex,Meryn Trant
+252,5,9,39,Shireen Baratheon,killedBy,Melisandre
+253,5,9,47,Hizdahr zo Loraq,killedBy,Sons of the Harpy
+254,5,10,5,Selyse Baratheon,killedBy,Selyse Baratheon
+255,5,10,24,Gordy,killedBy,Stannis Baratheon
+256,5,10,24,Simpson,killedBy,Stannis Baratheon
+257,5,10,26,Stannis Baratheon,killedBy,Brienne of Tarth
+258,5,10,30,Myranda,killedBy,Theon Greyjoy
+259,5,10,35,Meryn Trant,killedBy,Arya Stark
+260,5,10,37,Jaqen H'ghar,killedBy,Jaqen H'ghar
+261,5,10,40,Myrcella Baratheon,killedBy,Ellaria Sand
+262,5,10,64,Jon Snow,killedBy,OllyAlliser ThorneOthell YarwyckBowen Marsh
+263,6,1,14,Bolton Officer,killedBy,Brienne of Tarth
+264,6,1,14,Bolton Soldier,killedBy,Podrick Payne
+265,6,1,25,Areo Hotah,killedBy,Tyene Sand
+266,6,1,25,Maester Caleotte,killedBy,Tyene Sand
+267,6,1,26,Doran Martell,killedBy,Ellaria Sand
+268,6,1,27,Trystane Martell,killedBy,Obara Sand
+269,6,2,17,King's Landing Boaster,killedBy,Gregor Clegane
+270,6,2,33,Roose Bolton,killedBy,Ramsay Snow
+271,6,2,34,Walda Bolton,killedBy,Ramsay Snow
+272,6,2,34,Newborn Bolton,killedBy,Ramsay Snow
+273,6,2,39,Balon Greyjoy,killedBy,Euron Greyjoy
+274,6,3,6,Gerold Hightower,killedBy,Young Ned Stark
+275,6,3,7,Arthur Dayne,killedBy,Howland ReedYoung Ned Stark
+276,6,3,32,Shaggydog,killedBy,Smalljon Umber
+277,6,3,35,Alliser Thorne,killedBy,Jon Snow
+278,6,3,35,Othell Yarwyck,killedBy,Jon Snow
+279,6,3,35,Bowen Marsh,killedBy,Jon Snow
+280,6,3,35,Olly,killedBy,Jon Snow
+281,6,4,17,Dothraki Woman Having Sex,sex,Dothraki Man Having Sex
+282,6,4,17,Dothraki Man Having Sex,sex,Dothraki Woman Having Sex
+283,6,4,18,Akho,killedBy,Daario Naharis
+284,6,4,18,Iggo,killedBy,Daario Naharis
+285,6,4,30,Osha,killedBy,Ramsay Snow
+286,6,4,39,Khal Moro,killedBy,Daenerys Targaryen
+287,6,4,39,Dothraki Bloodrider #1,killedBy,Daenerys Targaryen
+288,6,4,39,Dothraki Bloodrider #2,killedBy,Daenerys Targaryen
+289,6,4,39,Khal Forzho,killedBy,Daenerys Targaryen
+290,6,4,39,Khal Brozho,killedBy,Daenerys Targaryen
+291,6,4,39,Khal Rhalko,killedBy,Daenerys Targaryen
+292,6,4,39,Khal Qorro,killedBy,Daenerys Targaryen
+293,6,5,28,Euron Greyjoy,killedBy,Aeron Greyjoy
+294,6,5,59,White Walker,killedBy,Meera Reed
+295,6,5,60,Summer,killedBy,Wights
+296,6,5,67,Three-Eyed Raven,killedBy,The Night King
+297,6,5,69,Leaf,killedBy,Wights
+298,6,5,84,Hodor,killedBy,Wights
+299,6,6,56,Jaime Lannister,sex,Cersei Lannister
+300,6,6,56,Cersei Lannister,sex,Jaime Lannister
+301,6,7,46,Brother Ray,killedBy,Lem Lemoncloak
+302,6,8,5,Steve,killedBy,Sandor Clegane
+303,6,8,6,Morgan,killedBy,Sandor Clegane
+304,6,8,6,Riddell,killedBy,Sandor Clegane
+305,6,8,7,Gatins,killedBy,Sandor Clegane
+306,6,8,46,Lem Lemoncloak,killedBy,Sandor Clegane
+307,6,8,50,Lady Crane,killedBy,The Waif
+308,6,8,51,The Waif,killedBy,Arya Stark
+309,6,9,12,Razdal mo Eraz,killedBy,Grey Worm
+310,6,9,12,Belicho Paenymion,killedBy,Grey Worm
+311,6,9,36,Rickon Stark,killedBy,Ramsay Snow
+312,6,9,57,Smalljon Umber,killedBy,Tormund Giantsbane
+313,6,9,63,Wun Wun,killedBy,Ramsay Snow
+314,6,9,71,Ramsay Snow,killedBy,Sansa Stark
+315,6,10,9,Grand Maester Pycelle,sex,Marei
+316,6,10,9,Marei,sex,Grand Maester Pycelle
+317,6,10,30,Grand Maester Pycelle,killedBy,FrancesLittle Bird #3Little Bird #4Little Bird #5Little Bird #6Little Bird #7
+318,6,10,48,Lancel Lannister,killedBy,Cersei Lannister
+319,6,10,49,Margaery Tyrell,killedBy,Cersei Lannister
+320,6,10,49,High Sparrow,killedBy,Cersei Lannister
+321,6,10,49,Loras Tyrell,killedBy,Cersei Lannister
+322,6,10,49,Mace Tyrell,killedBy,Cersei Lannister
+323,6,10,49,Kevan Lannister,killedBy,Cersei Lannister
+324,6,10,55,Tommen Baratheon,killedBy,Tommen Baratheon
+325,6,10,75,Lothar Frey,killedBy,Arya Stark
+326,6,10,75,Black Walder Rivers,killedBy,Arya Stark
+327,6,10,76,Walder Frey,killedBy,Arya Stark
+328,7,2,16,Grey Worm,sex,Missandei
+329,7,2,16,Missandei,sex,Grey Worm
+330,7,2,48,Obara Sand,killedBy,Euron Greyjoy
+331,7,2,49,Nymeria Sand,killedBy,Euron Greyjoy
+332,7,3,17,Tyene Sand,killedBy,Cersei Lannister
+333,7,3,19,Jaime Lannister,sex,Cersei Lannister
+334,7,3,19,Cersei Lannister,sex,Jaime Lannister
+335,7,3,50,Olenna Tyrell,killedBy,Jaime Lannister
+336,7,5,6,Randyll Tarly,killedBy,Daenerys Targaryen
+337,7,5,6,Dickon Tarly,killedBy,Daenerys Targaryen
+338,7,5,33,Kevin Eldon,killedBy,Gendry
+339,7,5,33,Laurence Spellman,killedBy,Gendry
+340,7,6,27,White Walker,killedBy,Jon Snow
+341,7,6,48,Viserion,killedBy,The Night King
+342,7,6,58,Benjen Stark,killedBy,Wights
+343,7,7,49,Harrag,killedBy,Theon Greyjoy
+344,7,7,52,Petyr Baelish,killedBy,Arya Stark
+345,7,7,63,Lyanna Stark,married,Rhaegar Targaryen
+346,7,7,63,Rhaegar Targaryen,married,Lyanna Stark
+347,7,7,68,Jon Snow,sex,Daenerys Targaryen
+348,7,7,68,Daenerys Targaryen,sex,Jon Snow
+349,8,1,39,Bronn,sex,Marei
+350,8,1,39,Marei,sex,Bronn
+351,8,1,44,Cersei Lannister,sex,Euron Greyjoy
+352,8,1,44,Euron Greyjoy,sex,Cersei Lannister
+353,8,1,83,Ned Umber,killedBy,The Night King
+354,8,2,56,Arya Stark,sex,Gendry
+355,8,2,56,Gendry,sex,Arya Stark
+356,8,3,120,Eddison Tollett,killedBy,Wight
+357,8,3,213,Lyanna Mormont,killedBy,Wun Wun Wight
+358,8,3,213,Wun Wun Wight,killedBy,Lyanna Mormont
+359,8,3,223,Beric Dondarrion,killedBy,Wights
+360,8,3,272,Theon Greyjoy,killedBy,The Night King
+361,8,3,279,The Night King,killedBy,Arya Stark
+362,8,3,279,White Walker,killedBy,Arya Stark
+363,8,3,280,Viserion,killedBy,Arya Stark
+364,8,3,288,Jorah Mormont,killedBy,Wights
+365,8,4,46,Jaime Lannister,sex,Brienne of Tarth
+366,8,4,46,Brienne of Tarth,sex,Jaime Lannister
+367,8,4,71,Rhaegal,killedBy,Euron Greyjoy
+368,8,4,111,Missandei,killedBy,Gregor Clegane
+369,8,5,14,Lord Varys,killedBy,Daenerys Targaryen
+370,8,5,78,Harry Strickland,killedBy,Grey Worm
+371,8,5,173,Euron Greyjoy,killedBy,Jaime Lannister
+372,8,5,178,Qyburn,killedBy,Gregor Clegane
+373,8,5,204,Sandor Clegane,killedBy,Sandor Clegane
+374,8,5,204,Gregor Clegane,killedBy,Sandor Clegane
+375,8,5,216,Eleanor,killedBy,Daenerys Targaryen
+376,8,5,216,Eleanor's Daughter,killedBy,Daenerys Targaryen
+377,8,6,40,Daenerys Targaryen,killedBy,Jon Snow
